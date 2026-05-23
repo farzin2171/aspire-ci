@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AspireCI.Demo.AppHost/AspireCI.Demo.AppHost.csproj" />
+  <Project Path="AspireCI.Demo.Server/AspireCI.Demo.Server.csproj" />
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+  </Project>
+</Solution>
